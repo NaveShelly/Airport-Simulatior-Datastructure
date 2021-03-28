@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw4mivnenetunim\hw4mivnenetunim\flighttable.h(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw4mivnenetunim\hw4mivnenetunim\flighttable.h(97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw4mivnenetunim\hw4mivnenetunim\flighttable.h(106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw4mivnenetunim\hw4mivnenetunim\flighttable.h(107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw4mivnenetunim\hw4mivnenetunim\passengertree.h(116): warning C4715: 'PassengerTree::calcBalanceFactor': not all control paths return a value
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw4mivnenetunim\hw4mivnenetunim\passengertree.h(81): warning C4715: 'PassengerTree::LeftRotate': not all control paths return a value
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw4mivnenetunim\hw4mivnenetunim\passengertree.h(102): warning C4715: 'PassengerTree::RightRotate': not all control paths return a value
+  HW4MivneNetunim.vcxproj -> C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\HW4MivneNetunim\Debug\HW4MivneNetunim.exe
+  HW4MivneNetunim.vcxproj -> C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\HW4MivneNetunim\Debug\HW4MivneNetunim.pdb (Partial PDB)
